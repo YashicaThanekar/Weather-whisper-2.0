@@ -1,4 +1,4 @@
-                                                                   🌦️ Weather Whisper 2.0
+                                                               🌦️ Weather Whisper 2.0
 
 Weather Whisper 2.0 is an upgraded and more interactive version of the original Weather Whisper.
 It brings a fresh UI, real-time weather updates, and a globe-based map for a more immersive experience.
