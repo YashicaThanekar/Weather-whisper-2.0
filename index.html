@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="image.png" />
+  <title>Weather Whisper 2.0</title>
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js" defer></script>
+  <script src="https://unpkg.com/three@0.152.0/build/three.min.js"></script>
+  <script src="https://unpkg.com/globe.gl"></script>
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+  <div id="globeContainer"></div>
+  <div id="map"></div>
+  
+  <!-- Custom Zoom Controls -->
+  <div id="customZoomControls" class="custom-zoom-controls">
+    <button id="zoomInBtn" class="zoom-btn zoom-in" title="Zoom in">+</button>
+    <button id="zoomOutBtn" class="zoom-btn zoom-out" title="Zoom out">−</button>
+  </div>
+
+  <button class="about" onclick="location.href='about.html'">About</button>
+
+  <div class="main-content">
+    <h1>Weather Whisper 2.0</h1>
+    <i>Spin the globe, find your weather</i><br><br><br>
+  </div>
+
+  <div class="main-input">
+    <input type="text" placeholder="Enter your location (city)..." class="input" />
+    <button class="input-button">Check Weather</button>
+  </div>
+</body>
+</html>
