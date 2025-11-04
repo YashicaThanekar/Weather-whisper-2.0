@@ -6,11 +6,11 @@ It brings a fresh UI, real-time weather updates, and a globe-based map for a mor
 ---
 
 **Features**<br>
--->Persistent Search Bar with Autocomplete — enter locations without the search disappearing.
--->Geolocation Support — ask permission and show weather for the user’s current location.
--->Instant Updates — real-time calls to OpenWeather (current + basic forecast).
--->Interactive 3D Globe — Displays Earth with smooth rotation and a starry background.
--->Wind & Cloud Details — Displays wind speed and condition for better understanding of weather.
+- ->Persistent Search Bar with Autocomplete — enter locations without the search disappearing.
+- ->Geolocation Support — ask permission and show weather for the user’s current location.
+- ->Instant Updates — real-time calls to OpenWeather (current + basic forecast).
+- ->Interactive 3D Globe — Displays Earth with smooth rotation and a starry background.
+- ->Wind & Cloud Details — Displays wind speed and condition for better understanding of weather.
 
 ---
 
