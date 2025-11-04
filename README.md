@@ -23,7 +23,10 @@ It brings a fresh UI, real-time weather updates, and a globe-based map for a mor
 - **OpenWeather API** – To fetch real-time weather data.
 
 ---
+**Live Preview**
+[~ Weather Whisper 2.0 Preview ~](https://yashicathanekar.github.io/Weather-whisper-2.0/)
 
+---
 
 👩‍💻 Author
 **Yashica Thanekar**  
